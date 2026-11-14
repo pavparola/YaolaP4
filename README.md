@@ -1,4 +1,4 @@
-# Pavan Parola (@YaolaP4)
+# Pavan Parola (@pavparola)
 
 UNC Chapel Hill — Freshman (sophomore standing) · Math + CS
 Taking Advanced Calc I, MATH 577, MATH 383 as a freshman. Targeting Summer 2027 internships in quant (Jane Street / D.E. Shaw) and AI (Anthropic / OpenAI / AI startups).
@@ -25,5 +25,5 @@ Python · PyTorch · PyTorch Geometric · NetworkX · NumPy/SciPy · JS/MapLibre
 
 ## Contact
 
-- GitHub: [@YaolaP4](https://github.com/YaolaP4)
+- GitHub: [@YaolaP4](https://github.com/pavparola)
 - IEEE: [11469727](https://ieeexplore.ieee.org/document/11469727)

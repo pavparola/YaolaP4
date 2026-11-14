@@ -1,7 +1,7 @@
 # Pavan Parola (@pavparola)
 
 UNC Chapel Hill — Freshman (sophomore standing) · Math + CS
-Taking Advanced Calc I, MATH 577, MATH 383 as a freshman. Targeting Summer 2027 internships in quant (Jane Street / D.E. Shaw) and AI (Anthropic / OpenAI / AI startups).
+Taking MATH 521 (Advanced Calculus I), MATH 577 (Abstract Linear Algebra), MATH 383 (Ordinary Differential Equations) as a freshman. Targeting Summer 2027 internships in quant (Jane Street / D.E. Shaw) and AI (Anthropic / OpenAI / AI startups).
 
 ## Highlight
 
